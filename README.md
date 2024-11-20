@@ -16,13 +16,13 @@ Developed using React.js and Material UI for the user interface.
 <h3>Backend:</h3>
 
 Built using Flask and Python to handle API requests and process form submissions.
-Technologies Used
-Frontend:
+<h2>Technologies Used
+Frontend:</h2>
 
 React.js
 Material UI
 Axios (for API calls)
-Backend:
+<h2>Backend:</h2>
 
 Flask (Python)
 Flask-CORS (to enable CORS)
@@ -31,44 +31,56 @@ Frontend (React.js)
 Clone the repository:
 
 bash
-Copy code
+
+
+git clone: 
 ```
-git clone: https://github.com/chaubeyuttam07/healtcare_dashboard.git<br>
+git clone https://github.com/chaubeyuttam07/healtcare_dashboard.git<br>
 cd healthcare-dashboard/frontend
 Install the necessary dependencies:
 ```
-```
 bash
+```
 Copy code
 npm install
 ```
 Start the development server:
 
 bash
+```
 Copy code
 npm start
+```
 The frontend will be accessible at http://localhost:3000.
 Backend (Flask)
 Navigate to the backend directory:
 
 bash
+```
 Copy code
 cd healthcare-dashboard/backend
+```
 Set up a virtual environment:
 
 bash
-Copy code
+
+```
 python -m venv venv
 Activate the virtual environment:
+```
 
 On Windows:
 bash
-Copy code
+
+```
 venv\Scripts\activate
 On MacOS/Linux:
+```
 bash
-Copy code
+e
+```
 source venv/bin/activate
+```
 Install the required Python dependencies:
 
 bash
