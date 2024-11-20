@@ -22,7 +22,7 @@ Frontend:</h2>
 React.js
 Material UI
 Axios (for API calls)
-<h2>Backend:</h2>
+<h2>Technologies Used Backend:</h2>
 
 Flask (Python)
 Flask-CORS (to enable CORS)
@@ -84,8 +84,9 @@ source venv/bin/activate
 Install the required Python dependencies:
 
 bash
-Copy code
+```
 pip install -r requirements.txt
+```
 Start the Flask server:
 
 bash
