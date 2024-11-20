@@ -32,13 +32,16 @@ Clone the repository:
 
 bash
 Copy code
-git clone: https://github.com/chaubeyuttam07/healtcare_dashboard.git
+```
+git clone: https://github.com/chaubeyuttam07/healtcare_dashboard.git<br>
 cd healthcare-dashboard/frontend
 Install the necessary dependencies:
-
+```
+```
 bash
 Copy code
 npm install
+```
 Start the development server:
 
 bash
