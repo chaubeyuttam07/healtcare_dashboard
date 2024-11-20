@@ -32,7 +32,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/username/healthcare-dashboard.git
+git clone: https://github.com/chaubeyuttam07/healtcare_dashboard.git
 cd healthcare-dashboard/frontend
 Install the necessary dependencies:
 
